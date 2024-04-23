@@ -1,0 +1,7 @@
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\bin\Debug\Autoszalon Kezelo Rendszer.exe.config
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\bin\Debug\Autoszalon Kezelo Rendszer.exe
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\bin\Debug\Autoszalon Kezelo Rendszer.pdb
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\obj\Debug\Autoszalon Kezelo Rendszer.csproj.AssemblyReference.cache
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\obj\Debug\Autoszalon Kezelo Rendszer.csproj.CoreCompileInputs.cache
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\obj\Debug\Autoszalon Kezelo Rendszer.exe
+D:\oskola\C#\doga\Autoszalon Kezelo Rendszer\Autoszalon Kezelo Rendszer\obj\Debug\Autoszalon Kezelo Rendszer.pdb
